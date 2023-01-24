@@ -1,0 +1,19 @@
+# option 1
+print('   *\n  ***\n *****\n*******\n   *')
+
+# option 2
+print("\n")
+a = " " # 1
+b = "  " # 2
+c = "   "  # 3
+d = "*" 
+e = "***"
+f = "*****"
+g = " *******"
+
+print("\n")
+print(c, d)
+print(b, e)
+print(a, f)
+print(g)
+print(c, d)
